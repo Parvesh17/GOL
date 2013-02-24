@@ -1,0 +1,5 @@
+c:\users\parve_000\documents\visual studio 2012\Projects\GameOfLife\Model\bin\Debug\GameOfLife.Model.dll
+c:\users\parve_000\documents\visual studio 2012\Projects\GameOfLife\Model\bin\Debug\GameOfLife.Model.pdb
+c:\users\parve_000\documents\visual studio 2012\Projects\GameOfLife\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\parve_000\documents\visual studio 2012\Projects\GameOfLife\Model\obj\Debug\GameOfLife.Model.dll
+c:\users\parve_000\documents\visual studio 2012\Projects\GameOfLife\Model\obj\Debug\GameOfLife.Model.pdb
