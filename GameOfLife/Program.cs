@@ -69,8 +69,8 @@ namespace GameOfLife
         {
             
             Console.WriteLine("Please specify the cells that needs to be set alive\n");
-            Console.WriteLine(@"Please note row number and column number starts with ""0""\n");
-            Console.WriteLine(@"Format ""row, col"" | ""row, rol"" example: 2,3|4,5 ");
+            Console.WriteLine("Please note, row number and column number starts with 0 \n");
+            Console.WriteLine(@"Format <row, col>|<row, col> example: 2,3|4,5 ");
          
             Console.WriteLine();
         }
